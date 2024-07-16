@@ -1,3 +1,4 @@
+#Medium #Arrays 
 Given a list of numbers and a target sum, find all the unique triplets that can be formed using unique elements who's sum is equal to the target.
 ## Approach
 We can approach this like the [[Two Number Sum]] problem. That is by caching 

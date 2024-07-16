@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8b5d510d5dd9a3b9",
+        "id": "ab02a2d69a367a5c",
         "type": "tabs",
         "children": [
           {
-            "id": "a9ad907885411149",
+            "id": "7ab2bec0fa40e147",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd558479ec4c1b31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Four Number Sum.md",
+                "file": "Spiral Traverse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Easy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Four Number Sum.md",
+                "file": "Spiral Traverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Four Number Sum.md",
+                "file": "Spiral Traverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Four Number Sum.md"
+                "file": "Spiral Traverse.md"
               }
             }
           }
@@ -160,12 +148,22 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "bd558479ec4c1b31",
+  "active": "7ab2bec0fa40e147",
   "lastOpenFiles": [
     "Arrays.md",
-    "Four Number Sum.md",
-    "Three Number Sum.md",
+    "Spiral Traverse.md",
+    "Monotonic Array.md",
+    "Smallest Difference.md",
+    "Transpose Matrix.md",
+    "Move Element to End.md",
+    "Tournament Winner.md",
+    "Non-Constructable change.md",
+    "Validate Sequence.md",
+    "Sorted Squared Array.md",
     "Two Number Sum.md",
+    "Four Number Sum.md",
+    "2024-07-14.md",
+    "Three Number Sum.md",
     "DSA.md",
     "README.md",
     "Untitled.md"

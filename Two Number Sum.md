@@ -1,4 +1,5 @@
-# Two Number Sum
+#Easy #Arrays 
+
 Given a list of numbers and a target value, you have to find the unique pairs of numbers from the list such that they add up to the target value.
 ## Approach
 ### Brute Force
