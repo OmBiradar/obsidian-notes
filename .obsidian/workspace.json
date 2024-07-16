@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ab8563dac89e26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spiral Traverse.md",
+                "file": "2024-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spiral Traverse.md",
+                "file": "2024-07-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spiral Traverse.md"
+                "file": "2024-07-16.md"
               }
             }
           }
@@ -148,10 +160,12 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "7ab2bec0fa40e147",
+  "active": "1ab8563dac89e26b",
   "lastOpenFiles": [
-    "Arrays.md",
+    "Tracker.md",
+    "2024-07-16.md",
     "Spiral Traverse.md",
+    "Arrays.md",
     "Monotonic Array.md",
     "Smallest Difference.md",
     "Transpose Matrix.md",
