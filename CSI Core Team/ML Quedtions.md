@@ -19,7 +19,7 @@
 
 ## Brownie questions
 
-1. Explain Linesr Regress.
+1. Explain Linesr Regression
     1. Explaination 1 point
     2. Mathematical Explaination 2 point
     3. Error analysis 2 points
