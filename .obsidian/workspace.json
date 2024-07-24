@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSI Core Team/Senior Core.md",
+                "file": "CSI Core Team/ML Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Projects/Ideas.md",
+                "file": "CSI Core Team/ML Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Projects/Ideas.md",
+                "file": "CSI Core Team/ML Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Projects/Ideas.md"
+                "file": "CSI Core Team/ML Questions.md"
               }
             }
           }
@@ -172,13 +172,14 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "34f873f98c9d1ab9",
+  "active": "46ed28b3b26b06e1",
   "lastOpenFiles": [
+    "Web Development/Projects/Ideas.md",
+    "CSI Core Team/ML Questions.md",
     "2024-07-16.md",
     "CSI Core Team/Senior Core.md",
     "CSI Core Team",
     "Untitled 1.md",
-    "Web Development/Projects/Ideas.md",
     "Web Development/Projects",
     "Web Development",
     "Tracker.md",
