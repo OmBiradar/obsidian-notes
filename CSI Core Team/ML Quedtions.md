@@ -20,6 +20,6 @@
 ## Brownie questions
 
 1. Explain Linesr Regress.
-    i. Explaination 1 point
-    ii. Mathematical Explaination 2 point
-    iii. Error analysis 2 points
+    1. Explaination 1 point
+    2. Mathematical Explaination 2 point
+    3. Error analysis 2 points
